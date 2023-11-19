@@ -80,6 +80,8 @@ Entrega:
 
     except RestauranteExcepction as re:
         print(re)
+    except AssertionError as ae:
+        print(ae)
     except BaseException as b:
         print('A fila de espera está vazia!')
     except Exception as e:
