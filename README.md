@@ -1,2 +1,2 @@
 # POOandED
-Repositório para projetos e mini projetos de  POO e estrutura de dados utilizando Python.
+Repositório para Programação Orientada a Objetos e Estrutura de Dados utilizando Python.
