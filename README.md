@@ -3,7 +3,7 @@
 
 Repositório para Programação Orientada a Objetos e Estrutura de Dados utilizando Python.
 ##
-<h1 align="center"> 
-	🚧  Cuidado 🚀 Programação em construção...  🚧
-</h1>
+
+	🚧  Cuidado! 🚀 Programação em construção...  🚧
+
 ##
