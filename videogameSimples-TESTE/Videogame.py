@@ -4,7 +4,6 @@ class VideogameException(Exception):
     def __init__(self, msg):
         super().__init__(msg)
 
-
 class Videogame():
     def __init__(self, marca):
         self.__dataFabricacao = ''
